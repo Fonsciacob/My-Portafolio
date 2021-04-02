@@ -45,7 +45,6 @@ header{
     letter-spacing: 6px;
     padding: 5px;
     margin: 3px;
-    width: 60vh;
     backdrop-filter: saturate(180%) blur(20px);
     background-color: rgba(58,58,60,0.72);
 }
