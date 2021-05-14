@@ -8,13 +8,14 @@
     box-sizing: border-box;
     margin: 0;
     text-decoration: none;
+    scroll-behavior: smooth;
 }
 body{
     background-color: rgb(28, 28, 30);
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 20px;
-    scroll-behavior: smooth;
+
 }
 header{
     color: rgb(242,242,247);
