@@ -9,6 +9,9 @@
     margin: 0;
     text-decoration: none;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: rgb(28, 28, 30);
     background-repeat: no-repeat;
